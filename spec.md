@@ -1,2 +1,2 @@
-# Banking API Feature Specification
+# Specs
 
